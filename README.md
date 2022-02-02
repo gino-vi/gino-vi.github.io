@@ -1,2 +1,2 @@
-# mekia.github.io
+# gino-vi.github.io
 mekia.space
